@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import axios from 'axios';
-
+// this is qodo cover
 function App() {
 
   const { innerWidth: width, innerHeight: height } = window;
